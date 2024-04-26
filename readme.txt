@@ -18,7 +18,3 @@ According to some given rules, each cell will become alive or dead at the next t
 
 // How To Run It In Terminal//
 run life_slurm.sh
-
-
-uncommon line 1 to doing data saving (saving data will named "life.h5")
-uncommon line 191 to printing out data
